@@ -1,4 +1,4 @@
-#!/user/bin/env node
+#!/usr/bin/env node
 var fs = require('fs');
 var outfile = "hello.txt";
 var out = "A startup is a business build to grow rapidly.\n"
