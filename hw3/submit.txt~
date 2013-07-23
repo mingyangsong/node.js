@@ -1,0 +1,26 @@
+{
+
+
+
+
+
+
+
+
+    ".footer": true,
+    ".faq": true,
+    ".section2": true,
+    ".section1": true,
+    ".social": true,
+    ".order": true,
+    ".thermometer": true,
+    ".video": true,
+    ".pitch": true,
+    ".subheading": true,
+    ".heading": true,
+    ".about": true,
+    ".blank": true,
+    ".logo": true,
+    ".navigation": true,
+    "h1": true
+}
