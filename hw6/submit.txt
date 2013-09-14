@@ -1,0 +1,1 @@
+<a class="coinbase-button" data-code="d1d8f6fe1dfd4c0377a4e4c50c799375" href="https://coinbase.com/checkouts/d1d8f6fe1dfd4c0377a4e4c50c799375">Pay With Bitcoin</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
